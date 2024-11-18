@@ -1,0 +1,63 @@
+[
+    {
+      "newproduct_id": 2,
+      "product_title": "Toyota Corolla 2018",
+      "product_image": "https://i.ibb.co.com/zxg8gF8/download-1.jpg",
+      "category": "Car",
+      "price": 15000,
+      "description": "Reliable, well-maintained, 30,000 miles.",
+      "Specification": ["2018 Model", "30,000 miles", "Automatic transmission", "Fuel-efficient"],
+      "availability": true,
+      "rating": 4.7,
+      "brand": "Toyota"
+    },
+    {
+      "newproduct_id": 3,
+      "product_title": "Samsung QLED 55-inch TV",
+      "product_image": "https://i.ibb.co.com/0FFJ1Q3/download-2.jpg",
+      "category": "TV",
+      "price": 1200,
+      "description": "Ultra HD 4K, Smart TV, Voice control.",
+      "Specification": ["55-inch QLED", "4K Ultra HD", "Smart TV", "Voice control", "HDR"],
+      "availability": true,
+      "rating": 4.6,
+      "brand": "Samsung"
+    },
+    {
+      "newproduct_id": 4,
+      "product_title": "PlayStation 5 Console",
+      "product_image": "https://i.ibb.co.com/sJTcd2n/PS5-SLIM-Hero-Box-US-V2.webp",
+      "category": "Gaming",
+      "price": 499,
+      "description": "Next-gen gaming console with 4K gaming support.",
+      "Specification": ["8K/4K UHD", "825GB SSD", "DualSense wireless controller", "Ray tracing support"],
+      "availability": true,
+      "rating": 4.9,
+      "brand": "Sony"
+    },
+    {
+      "newproduct_id": 5,
+      "product_title": "Alienware Aurora R13 Gaming Desktop",
+      "product_image": "https://i.ibb.co.com/ZHYMJbR/images-1.jpg",
+      "category": "Desktop",
+      "price": 2500,
+      "description": "High-performance gaming desktop with Intel Core i9.",
+      "Specification": ["Intel Core i9", "32GB RAM", "1TB SSD", "NVIDIA RTX 3080"],
+      "availability": true,
+      "rating": 4.8,
+      "brand": "Alienware"
+    },
+    {
+      "newproduct_id": 6,
+      "product_title": "Rolex Submariner Watch",
+      "product_image": "https://i.ibb.co.com/KDbn2Fz/m126610ln-0001-collection-upright-landscape.jpg",
+      "category": "Watches",
+      "price": 8500,
+      "description": "Classic luxury dive watch with ceramic bezel.",
+      "Specification": ["Automatic movement", "Ceramic bezel", "Water-resistant to 300m", "Stainless steel"],
+      "availability": true,
+      "rating": 4.9,
+      "brand": "Rolex"
+    }
+  ]
+  
